@@ -4,7 +4,8 @@ const sever = http.createServer((req, res)=>{
 })   // create server
 
 sever.listen(3000, ()=>{
-    console.log('sever is running on port 3000');
-    
+    console.log('sever is running on port 3000');  
+
+   
 })
 
