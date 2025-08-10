@@ -11,7 +11,7 @@ This repository contains all the notes, code, and projects I’m building as I l
 |-------------------------------|-----------------------------------------------------------------------------|
 | 📁 [Backend01](./Backend01/)  | Day 1: Introduction to Node.js, first HTTP server, npm basics, and package usage |
 | 📁 [Backend02](./Backend02/)  | Day 2: Introduction to Express.js, creating servers with Express, defining routes & APIs, understanding req and res, and basics of REST API design.                                                               |
-| 📁 [Backend03](./Backend03/)  | (Coming soon)  
+| 📁 [Backend03](./Backend03/)  | Day 3: REST APIs basics, HTTP methods, and ways to send data (req.body, req.query, req.params)  
 
 Each folder contains:
 - `README.md` – Daily learning notes
